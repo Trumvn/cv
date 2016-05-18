@@ -1,0 +1,266 @@
+2016-01-13 19:00:49 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 21
+LINE: 27
+----------------------------------------------------------------
+MOD: <font color="#0000"><b>Pavo Framework 3.0</font>
+FILE: admin/view/template/design/layout_form.tpl
+CODE: <select name="layout_module[<?php echo $module_row; ?>][position]" class="form-control">
+LINE: 106
+FILE: admin/controller/common/menu.php
+CODE: $this->load->language('common/menu');
+LINE: 3
+FILE: admin/view/template/common/menu.tpl
+CODE: <li id="sale">
+LINE: 87
+FILE: catalog/language/english/common/cart.php
+CODE: $_['text_items']    = '%s item(s) - %s';
+LINE: 2
+FILE: catalog/language/english/checkout/cart.php
+CODE: $_['text_items']               = '%s item(s) - %s';
+LINE: 8
+FILE: catalog/language/english/default.php
+CODE: $_['error_upload_999']      = 'Warning: No error code available!';
+LINE: 68
+----------------------------------------------------------------
+2016-01-13 19:05:39 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 21
+LINE: 27
+----------------------------------------------------------------
+MOD: <font color="#0000"><b>Pavo Framework 3.0</font>
+FILE: admin/view/template/design/layout_form.tpl
+CODE: <select name="layout_module[<?php echo $module_row; ?>][position]" class="form-control">
+LINE: 106
+FILE: admin/controller/common/menu.php
+CODE: $this->load->language('common/menu');
+LINE: 3
+FILE: admin/view/template/common/menu.tpl
+CODE: <li id="sale">
+LINE: 87
+FILE: catalog/language/english/common/cart.php
+CODE: $_['text_items']    = '%s item(s) - %s';
+LINE: 2
+FILE: catalog/language/english/checkout/cart.php
+CODE: $_['text_items']               = '%s item(s) - %s';
+LINE: 8
+FILE: catalog/language/english/default.php
+CODE: $_['error_upload_999']      = 'Warning: No error code available!';
+LINE: 68
+----------------------------------------------------------------
+2016-01-13 19:05:50 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 21
+LINE: 27
+----------------------------------------------------------------
+MOD: <font color="#0000"><b>Pavo Framework 3.0</font>
+FILE: admin/view/template/design/layout_form.tpl
+CODE: <select name="layout_module[<?php echo $module_row; ?>][position]" class="form-control">
+LINE: 106
+FILE: admin/controller/common/menu.php
+CODE: $this->load->language('common/menu');
+LINE: 3
+FILE: admin/view/template/common/menu.tpl
+CODE: <li id="sale">
+LINE: 87
+FILE: catalog/language/english/common/cart.php
+CODE: $_['text_items']    = '%s item(s) - %s';
+LINE: 2
+FILE: catalog/language/english/checkout/cart.php
+CODE: $_['text_items']               = '%s item(s) - %s';
+LINE: 8
+FILE: catalog/language/english/default.php
+CODE: $_['error_upload_999']      = 'Warning: No error code available!';
+LINE: 68
+----------------------------------------------------------------
+2016-01-13 19:10:03 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 21
+LINE: 27
+----------------------------------------------------------------
+MOD: <font color="#0000"><b>Pavo Framework 3.0</font>
+FILE: admin/view/template/design/layout_form.tpl
+CODE: <select name="layout_module[<?php echo $module_row; ?>][position]" class="form-control">
+LINE: 106
+FILE: admin/controller/common/menu.php
+CODE: $this->load->language('common/menu');
+LINE: 3
+FILE: admin/view/template/common/menu.tpl
+CODE: <li id="sale">
+LINE: 87
+FILE: catalog/language/english/common/cart.php
+CODE: $_['text_items']    = '%s item(s) - %s';
+LINE: 2
+FILE: catalog/language/english/checkout/cart.php
+CODE: $_['text_items']               = '%s item(s) - %s';
+LINE: 8
+FILE: catalog/language/english/default.php
+CODE: $_['error_upload_999']      = 'Warning: No error code available!';
+LINE: 68
+----------------------------------------------------------------
+2016-01-13 19:16:59 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 21
+LINE: 27
+----------------------------------------------------------------
+MOD: <font color="#0000"><b>Pavo Framework 3.0</font>
+FILE: admin/view/template/design/layout_form.tpl
+CODE: <select name="layout_module[<?php echo $module_row; ?>][position]" class="form-control">
+LINE: 106
+FILE: admin/controller/common/menu.php
+CODE: $this->load->language('common/menu');
+LINE: 3
+FILE: admin/view/template/common/menu.tpl
+CODE: <li id="sale">
+LINE: 87
+FILE: catalog/language/english/common/cart.php
+CODE: $_['text_items']    = '%s item(s) - %s';
+LINE: 2
+FILE: catalog/language/english/checkout/cart.php
+CODE: $_['text_items']               = '%s item(s) - %s';
+LINE: 8
+FILE: catalog/language/english/default.php
+CODE: $_['error_upload_999']      = 'Warning: No error code available!';
+LINE: 68
+----------------------------------------------------------------
+2016-01-14 9:29:53 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 21
+LINE: 27
+----------------------------------------------------------------
+MOD: <font color="#0000"><b>Pavo Framework 3.0</font>
+FILE: admin/view/template/design/layout_form.tpl
+CODE: <select name="layout_module[<?php echo $module_row; ?>][position]" class="form-control">
+LINE: 106
+FILE: admin/controller/common/menu.php
+CODE: $this->load->language('common/menu');
+LINE: 3
+FILE: admin/view/template/common/menu.tpl
+CODE: <li id="sale">
+LINE: 87
+FILE: catalog/language/english/common/cart.php
+CODE: $_['text_items']    = '%s item(s) - %s';
+LINE: 2
+FILE: catalog/language/english/checkout/cart.php
+CODE: $_['text_items']               = '%s item(s) - %s';
+LINE: 8
+FILE: catalog/language/english/default.php
+CODE: $_['error_upload_999']      = 'Warning: No error code available!';
+LINE: 68
+----------------------------------------------------------------
+2016-01-14 11:33:33 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 21
+LINE: 27
+----------------------------------------------------------------
+MOD: <font color="#0000"><b>Pavo Framework 3.0</font>
+FILE: admin/view/template/design/layout_form.tpl
+CODE: <select name="layout_module[<?php echo $module_row; ?>][position]" class="form-control">
+LINE: 106
+FILE: admin/controller/common/menu.php
+CODE: $this->load->language('common/menu');
+LINE: 3
+FILE: admin/view/template/common/menu.tpl
+CODE: <li id="sale">
+LINE: 87
+FILE: catalog/language/english/common/cart.php
+CODE: $_['text_items']    = '%s item(s) - %s';
+LINE: 2
+FILE: catalog/language/english/checkout/cart.php
+CODE: $_['text_items']               = '%s item(s) - %s';
+LINE: 8
+FILE: catalog/language/english/default.php
+CODE: $_['error_upload_999']      = 'Warning: No error code available!';
+LINE: 68
+----------------------------------------------------------------

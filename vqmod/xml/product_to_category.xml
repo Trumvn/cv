@@ -1,0 +1,28 @@
+<modification>
+<id><![CDATA[Product To Category]]></id>
+<version><![CDATA[1.2]]></version>
+<opencart><![CDATA[2.X]]></opencart>
+<vqmver><![CDATA[2.5.1]]></vqmver>
+<author><![CDATA[Raul Marosan]]></author>
+<file name="catalog/model/catalog/product.php">
+<operation>
+<search position="replace"><![CDATA[
+$sql .= " AND p2c.category_id = '" . (int)$data['filter_category_id'] . "'";
+]]></search>
+<add trim="true"><![CDATA[
+$cat_sql = "SELECT `category_id` FROM `" . DB_PREFIX . "category_path` WHERE `path_id` = '" . (int)$data['filter_category_id'] . "'";
+$cat_query = $this->db->query($cat_sql);
+if ($cat_query->num_rows) {
+	$sql .= " AND (p2c.category_id = '" . (int)$data['filter_category_id'] . "'";
+	foreach($cat_query->rows as $cat) {
+		$sql .= " OR p2c.category_id = '" . (int)$cat['category_id'] . "'";
+	}
+	$sql .= ")";
+}
+else {
+	$sql .= " AND p2c.category_id = '" . (int)$data['filter_category_id'] . "'";
+}
+]]></add>
+</operation>
+</file>
+</modification>

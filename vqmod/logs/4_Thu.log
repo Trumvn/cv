@@ -1,0 +1,42 @@
+---------- Date: 2016-01-28 16:37:36 ~ IP : 171.253.9.137 ----------
+REQUEST URI : /admin/index.php?route=module/vqmod_manager&token=4fdd070c0062174e56cc898c7be1c393
+MOD DETAILS:
+   modFile   : /home/u182136840/public_html/vqmod/xml/a_vqmod_d_quickcheckout.xml
+   id        : AJAX QUICK CHECKOUT V5.0 BY DREAMVENTION
+   version   : 2.0.0.0
+   vqmver    : 2.2.1
+   author    : dreamvention.com
+VQModObject::parseMods - Could not resolve path for [catalog/view/theme/default/template/payment/pp_pro_uk.tpl] (SKIPPED)
+
+MOD DETAILS:
+   modFile   : /home/u182136840/public_html/vqmod/xml/add_to_cart_redirect_to_cart.xml
+   id        : ADD TO CART REDIRECT TO CART
+   version   : 1.0.0
+   vqmver    : 2.0
+   author    : CREATIWEB.ES
+VQModObject::parseMods - Could not resolve path for [catalog/view/theme/lexus_extroi/template/product/product.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2016-01-28 16:37:36 ~ IP : 171.253.9.137 ----------
+REQUEST URI : /admin/index.php?route=module/vqmod_manager&token=4fdd070c0062174e56cc898c7be1c393
+MOD DETAILS:
+   modFile   : /home/u182136840/public_html/vqmod/xml/a_vqmod_d_quickcheckout.xml
+   id        : AJAX QUICK CHECKOUT V5.0 BY DREAMVENTION
+   version   : 2.0.0.0
+   vqmver    : 2.2.1
+   author    : dreamvention.com
+VQModObject::parseMods - Could not resolve path for [catalog/view/theme/default/template/payment/pp_pro_uk.tpl] (SKIPPED)
+
+MOD DETAILS:
+   modFile   : /home/u182136840/public_html/vqmod/xml/add_to_cart_redirect_to_cart.xml
+   id        : ADD TO CART REDIRECT TO CART
+   version   : 1.0.0
+   vqmver    : 2.0
+   author    : CREATIWEB.ES
+VQModObject::parseMods - Could not resolve path for [catalog/view/theme/lexus_extroi/template/product/product.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
